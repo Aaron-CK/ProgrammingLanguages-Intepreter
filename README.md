@@ -1,1 +1,1 @@
-# ProgrammingLanguages-Intepreter
+# ProgrammingLanguages-Interpreter
